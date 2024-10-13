@@ -1,0 +1,7 @@
+As the Cloud Digital Leader training concludes, it's vital to highlight **Google’s commitment to environmental sustainability** alongside cloud technology. **Data centers consume nearly 2% of the world's electricity**, so Google aims to **enhance efficiency** in its facilities. Google's data centers were the **first to achieve ISO 14001 certification**, promoting better environmental performance.
+
+For example, the **data center in Hamina, Finland**, uses seawater for cooling, significantly reducing energy use. Google was the **first major company to achieve carbon neutrality** and **100% renewable energy**, aiming for **carbon-free operations by 2030**.
+
+Google empowers customers to meet their environmental goals, as seen with **Kaluza**, which uses Google Cloud technology to enable **smart electric vehicle (EV) charging**. Kaluza's **Charge Anytime program** allows customers to charge EVs at lower costs during off-peak hours, reducing strain on power grids. Their **optimization engine** utilizes real-time data stored in **BigQuery** to create efficient charging schedules, ensuring the use of the cheapest and least carbon-intensive energy.
+
+Google's dedication to sustainability continues to inspire others, promoting a **healthier planet** through innovative technology.
